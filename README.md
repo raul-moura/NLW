@@ -1,2 +1,2 @@
 # NLW
-Projeto criado na semana NLW (Rocketseat)
+Projeto criado na semana NLW (Rocketseat) trilha-Explore.
